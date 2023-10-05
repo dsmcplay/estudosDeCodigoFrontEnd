@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+}
+
+.allDivs {
+  border: 3px solid black;
+  border-radius: 50%;
+}
+
+#div1 {
+  background-color: rgb(122, 0, 0);
+  width: 100px;
+  height: 100px;
+}
+
+#div2 {
+  background-color: aqua;
+  width: 800px;
+  height: 80px;
+}
+
+#div3 {
+  background-color: rgb(56, 19, 143);
+  width: 50%;
+  height: 100px;
+}
+
+#divDentro {
+  background-color: blueviolet;
+  width: 100px;
+  height: 300px;
+}
